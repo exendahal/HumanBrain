@@ -7,7 +7,7 @@ Created:  2018 Jul 1
 
 ---
 
-SVG HUMAN MAPPING
+SVG HUMAN BRAIN MAPPING
 =========
 ## Human Brain SVG Mapping
 
